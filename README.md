@@ -68,12 +68,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white">
 
-</div>
-
-
-<div>
+ <div>
   https://heidong.tistory.com/
  </div>
+ 
+</div>
+
 <br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
