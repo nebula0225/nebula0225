@@ -69,10 +69,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white">
 <br>
  
- <div>
-  https://heidong.tistory.com/
- </div>
- 
 </div>
 
 <br/>
