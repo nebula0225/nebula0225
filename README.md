@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <div align = "center">
 
 <br/>
-<h2>nebula</h2><br/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=nebula0225.nebula0225" alt="visitor badge"/>
 
 <br/>
 
@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 
 <br/><br/>
 
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnebula0225%2Fnebula0225.git&count_bg=%23E1CEFF&title_bg=%23C9D5FF&icon=leaflet.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
  
   
 ﹏﹏﹏﹏﹏﹏﹏
